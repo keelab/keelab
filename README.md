@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a>
+</p>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/keelab-hero-light.svg" />
