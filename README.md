@@ -17,6 +17,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/keelab">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=720&color=54E0D4&center=true&vCenter=true&random=false&width=900&lines=Systems+with+a+steady+keel;Runtime+in%2C+clear+boundaries+out;Build+the+spine%2C+keep+the+edge+explicit" alt="Keelab typing banner" />
+  </a>
+</p>
+
+<p align="center">
   <strong>Open systems. Explicit boundaries.</strong><br />
   Keelab builds composable infrastructure for distributed services and agent systems, centered on runtime, message execution, and release governance.
 </p>

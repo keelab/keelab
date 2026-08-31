@@ -17,6 +17,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/keelab">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=720&color=54E0D4&center=true&vCenter=true&random=false&width=900&lines=%E6%98%8E%E7%A1%AE%E8%BE%B9%E7%95%8C%EF%BC%8C%E7%A8%B3%E5%AE%9A%E8%88%AA%E8%A1%8C;%E8%BF%90%E8%A1%8C%E6%97%B6%E8%BF%9B%EF%BC%8C%E7%B3%BB%E7%BB%9F%E8%BE%B9%E7%95%8C%E6%B8%85%E6%99%B0;%E6%90%AD%E5%BB%BA%E7%B3%BB%E7%BB%9F%E8%84%8A%E6%A2%81%EF%BC%8C%E4%BF%9D%E6%8C%81%E8%BE%B9%E7%95%8C%E6%98%8E%E7%A1%AE" alt="Keelab 打字机横幅" />
+  </a>
+</p>
+
+<p align="center">
   <strong>开放系统，边界清晰。</strong><br />
   Keelab 面向分布式服务与 Agent 系统，围绕运行时、消息执行和发布治理构建可组合基础设施。
 </p>
