@@ -25,11 +25,13 @@
   <g class="float" filter="url(#glow)">
     <circle cx="258" cy="185" r="88" fill="url(#core)" opacity=".8"/>
     <g>
-      <path d="M258 108l47 47-18 70-29 27-29-27-18-70z" fill="#ffffff" fill-opacity=".88" stroke="#28b9ac" stroke-width="2"/>
-      <path d="M258 122l25 35-10 49-15 18-15-18-10-49z" fill="none" stroke="#a57200" stroke-width="3"/>
-      <circle cx="258" cy="185" r="13" fill="#a57200"/>
-      <path d="M222 185h72" stroke="#28b9ac" stroke-opacity=".8" stroke-width="2"/>
-      <circle cx="258" cy="185" r="28" fill="none" stroke="#28b9ac" stroke-opacity=".45" stroke-width="1.5"/>
+      <path d="M258 101v128" stroke="#a57200" stroke-width="4" stroke-linecap="round"/>
+      <path d="M255 116l-43 76h46z" fill="#28b9ac" fill-opacity=".2" stroke="#28b9ac" stroke-width="2"/>
+      <path d="M261 130l35 62h-38z" fill="#5b55c9" fill-opacity=".22" stroke="#5b55c9" stroke-width="2"/>
+      <path d="M204 207q54 34 108 0-14 39-54 49-40-10-54-49z" fill="#ffffff" fill-opacity=".9" stroke="#28b9ac" stroke-width="2"/>
+      <path d="M218 220q40 18 80 0" fill="none" stroke="#a57200" stroke-opacity=".75" stroke-width="2"/>
+      <circle cx="258" cy="191" r="10" fill="#a57200"/>
+      <path d="M220 191h76" stroke="#28b9ac" stroke-opacity=".7" stroke-width="1.5"/>
     </g>
     <circle cx="258" cy="185" r="13" fill="#a57200" class="pulse"/>
   </g>
