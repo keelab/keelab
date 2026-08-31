@@ -4,9 +4,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/keelab-hero-light.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/keelab-hero-dark.svg" />
-    <img src="./assets/keelab-hero-dark.svg" width="100%" alt="Keelab: clear boundaries for complex systems" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/keelab-hero-light-v2.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/keelab-hero-dark-v2.svg" />
+    <img src="./assets/keelab-hero-dark-v2.svg" width="100%" alt="Keelab: clear boundaries for complex systems" />
   </picture>
 </div>
 
